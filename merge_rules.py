@@ -72,11 +72,11 @@ file_urls = [
     },
     {
         "category": "surge_direct",
-        "url": "https://github.com/Jackchen0514/rules_list/raw/refs/heads/main/custom/DouYin.list"
+        "url": "https://de.xinsichen.com/index.php/s/rsW7TY3E7tYY9cN/download/Douyin.txt"
     },
     {
         "category": "surge_direct",
-        "url": "https://github.com/Jackchen0514/rules_list/raw/refs/heads/main/custom/Xianyu.list"
+        "url": "https://de.xinsichen.com/index.php/s/5gXQ8PbCXC7BYTo/download/Xianyu.txt"
     },
     {
         "category": "surge_direct",
@@ -84,7 +84,7 @@ file_urls = [
     },
     {
         "category": "surge_direct",
-        "url": "https://github.com/Jackchen0514/rules_list/raw/refs/heads/main/custom/Others.list"
+        "url": "https://de.xinsichen.com/index.php/s/cq9JN4tMf9nJAKz/download/Others.txt"
     }
 
     # 可以在此添加更多的文件URL和对应的分类别
