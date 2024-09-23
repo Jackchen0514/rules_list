@@ -76,7 +76,7 @@ file_urls = [
     },
     {
         "category": "surge_direct",
-        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XianYu/XianYu.list"
+        "url": "https://github.com/Jackchen0514/rules_list/raw/refs/heads/main/custom/Xianyu.list"
     }
     # 可以在此添加更多的文件URL和对应的分类别
 ]
