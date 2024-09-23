@@ -321,8 +321,10 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,armaf.org
 DOMAIN-SUFFIX,ating.info
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,baitiao.cn
 DOMAIN-SUFFIX,baitiao.com
+DOMAIN-SUFFIX,bdurl.net
 DOMAIN-SUFFIX,bkapigw.com
 DOMAIN-SUFFIX,bkapps.com
 DOMAIN-SUFFIX,bkclouds.cc
