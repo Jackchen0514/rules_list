@@ -14,4 +14,5 @@ DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytedance.com
 IP-CIDR,58.222.47.237/32,no-resolve
-
+IP-CIDR,61.147.168.177/32,no-resolve
+IP-CIDR,123.183.233.35/32,no-resolve
