@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,zijieapi.com
-IP-CIDR,61.170.77.212/32,no-resolve
-IP-CIDR,59.82.66.200/32,no-resolve
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,ucweb.com
+IP-CIDR,61.170.0.0/16,no-resolve
+IP-CIDR,59.82.0.0/16,no-resolve
 
