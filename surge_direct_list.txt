@@ -277,6 +277,7 @@ DOMAIN-SUFFIX,aitransfy.com
 DOMAIN-SUFFIX,aleenote.cn
 DOMAIN-SUFFIX,aleenote.com
 DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibiji.cn
 DOMAIN-SUFFIX,alicdn.com
@@ -1039,6 +1040,7 @@ DOMAIN-SUFFIX,tos.cn
 DOMAIN-SUFFIX,tourismshow.cn
 DOMAIN-SUFFIX,tourismuser.cn
 DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiao1.com
 DOMAIN-SUFFIX,tqapp.cn
 DOMAIN-SUFFIX,tqapp.com
 DOMAIN-SUFFIX,tsparkling.com
@@ -1220,6 +1222,7 @@ IP-CIDR,161.117.0.0/16,no-resolve
 IP-CIDR,163.181.0.0/16,no-resolve
 IP-CIDR,170.33.0.0/16,no-resolve
 IP-CIDR,198.11.128.0/18,no-resolve
+IP-CIDR,203.119.0.0/16,no-resolve
 IP-CIDR,203.209.224.0/19,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
 IP-CIDR,41.222.240.0/22,no-resolve
