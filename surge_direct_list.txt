@@ -1051,6 +1051,7 @@ DOMAIN-SUFFIX,txidc.wang
 DOMAIN-SUFFIX,txtyxg.com
 DOMAIN-SUFFIX,txyscdn.com
 DOMAIN-SUFFIX,txyscdn.net
+DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,um.run
 DOMAIN-SUFFIX,uncnn.cn
@@ -1160,6 +1161,7 @@ DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,ym.run
+DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,youpin.cn
 DOMAIN-SUFFIX,youpin.com.cn
 DOMAIN-SUFFIX,yqacg.com
@@ -1220,7 +1222,6 @@ IP-CIDR,170.33.0.0/16,no-resolve
 IP-CIDR,198.11.128.0/18,no-resolve
 IP-CIDR,203.209.224.0/19,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
-IP-CIDR,216.73.80.0/32,no-resolve
 IP-CIDR,41.222.240.0/22,no-resolve
 IP-CIDR,41.223.119.0/24,no-resolve
 IP-CIDR,42.120.0.0/16,no-resolve
@@ -1244,9 +1245,11 @@ IP-CIDR,47.76.0.0/14,no-resolve
 IP-CIDR,47.80.0.0/12,no-resolve
 IP-CIDR,58.220.58.152/31,no-resolve
 IP-CIDR,58.220.59.2/32,no-resolve
+IP-CIDR,59.82.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/20,no-resolve
 IP-CIDR,59.82.240.0/21,no-resolve
 IP-CIDR,59.82.248.0/22,no-resolve
+IP-CIDR,61.170.0.0/16,no-resolve
 IP-CIDR,72.254.0.0/16,no-resolve
 IP-CIDR,8.128.0.0/10,no-resolve
 IP-CIDR,8.208.0.0/12,no-resolve
