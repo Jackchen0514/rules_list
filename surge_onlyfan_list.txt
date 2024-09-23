@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,recaptcha
+DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,admob-cn.com
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
@@ -172,6 +174,7 @@ DOMAIN-SUFFIX,cloudburstresearch.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,cloudrobotics.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cobrasearch.com
 DOMAIN-SUFFIX,codespot.com
 DOMAIN-SUFFIX,comments.app
@@ -624,6 +627,7 @@ DOMAIN-SUFFIX,pageview.mobi
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,partylikeits1986.org
 DOMAIN-SUFFIX,paxlicense.org
+DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,picasa.com
 DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,picasaweb.net
@@ -642,6 +646,7 @@ DOMAIN-SUFFIX,prod-databe.floonet.goog
 DOMAIN-SUFFIX,prod.databe.floonet.goog
 DOMAIN-SUFFIX,projectara.com
 DOMAIN-SUFFIX,projectbaseline.com
+DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,publishproxy.com
 DOMAIN-SUFFIX,qagpublic.qatp1.net
 DOMAIN-SUFFIX,qagpublic.qcpp1.net
@@ -701,6 +706,7 @@ DOMAIN-SUFFIX,stxmosquitoproject.com
 DOMAIN-SUFFIX,stxmosquitoproject.net
 DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,teachparentstech.org
@@ -713,6 +719,7 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tg.dev
@@ -723,6 +730,23 @@ DOMAIN-SUFFIX,thinkquarterly.co.uk
 DOMAIN-SUFFIX,thinkquarterly.com
 DOMAIN-SUFFIX,thinkwithgoogle.com
 DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,txcloud.net
 DOMAIN-SUFFIX,txvia.com
@@ -741,6 +765,7 @@ DOMAIN-SUFFIX,verilystudyhub.com
 DOMAIN-SUFFIX,verilystudywatch.com
 DOMAIN-SUFFIX,verilystudywatch.org
 DOMAIN-SUFFIX,video.google.com
+DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,wallet.com
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waymo.com
@@ -764,6 +789,7 @@ DOMAIN-SUFFIX,womenwill.in
 DOMAIN-SUFFIX,womenwill.mx
 DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,www.pxcc.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.team
 DOMAIN-SUFFIX,xn--9kr7l.com
@@ -957,8 +983,14 @@ IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve

@@ -2,34 +2,75 @@ import requests
 
 # 要合并的文件URL列表
 file_urls = [
+    ## proxy    
     {
-        "category": "onlyfan",
+        "category": "surge_onlyfan",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
     },
     {
-        "category": "onlyfan",
+        "category": "surge_onlyfan",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list"
     },
     {
-        "category": "onlyfan",
+        "category": "surge_onlyfan",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list"
     },
     {
-        "category": "onlyfan",
+        "category": "surge_onlyfan",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list"
     },
     {
-        "category": "onlyfan",
+        "category": "surge_onlyfan",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list"
-    },    
+    }, 
+    {
+        "category": "surge_onlyfan",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list"
+    }, 
 
+    ## direct
+
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list"
+    },    
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Tencent/Tencent.list"
+    },    
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list"
+    },    
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoMi/XiaoMi.list"
+    },    
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AliPay/AliPay.list"
+    }, 
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Alibaba/Alibaba.list"
+    },
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/MeiTuan/MeiTuan.list"
+    },
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Weibo/Weibo.list"
+    }
     # 可以在此添加更多的文件URL和对应的分类别
 ]
 
 # 用于存储合并后的规则
 merged_rules = {
-    "direct": set(),
-    "onlyfan": set()
+    "surge_direct": set(),
+    "surge_onlyfan": set(),
+    "surge_us": set(),
+    "surge_jp": set()
 }
 
 # 用于存储拉取失败的文件URL
