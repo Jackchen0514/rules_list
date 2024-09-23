@@ -273,7 +273,9 @@ DOMAIN-SUFFIX,aitransfy.com
 DOMAIN-SUFFIX,aleenote.cn
 DOMAIN-SUFFIX,aleenote.com
 DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibiji.cn
+DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alinotes.cn
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alipay-corp.com
