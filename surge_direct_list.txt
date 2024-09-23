@@ -257,6 +257,10 @@ DOMAIN-SUFFIX,408399.net
 DOMAIN-SUFFIX,700chat.com
 DOMAIN-SUFFIX,7fresh.com
 DOMAIN-SUFFIX,816798.net
+DOMAIN-SUFFIX,a-map.cn
+DOMAIN-SUFFIX,a-map.co
+DOMAIN-SUFFIX,a-map.link
+DOMAIN-SUFFIX,a-map.vip
 DOMAIN-SUFFIX,accessibilityunion.cn
 DOMAIN-SUFFIX,accessibilityunion.com
 DOMAIN-SUFFIX,accessibilityunion.net.cn
@@ -297,7 +301,10 @@ DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,alloyteam.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,amapauto.com
 DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,aos-incentive.huami.com
 DOMAIN-SUFFIX,apaas-zone-test.com
 DOMAIN-SUFFIX,apcdns.com
@@ -310,6 +317,7 @@ DOMAIN-SUFFIX,apigwtencent.com
 DOMAIN-SUFFIX,app-analytics-cn.huami.com
 DOMAIN-SUFFIX,armaf.org
 DOMAIN-SUFFIX,ating.info
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,baitiao.cn
 DOMAIN-SUFFIX,baitiao.com
 DOMAIN-SUFFIX,bkapigw.com
@@ -521,6 +529,7 @@ DOMAIN-SUFFIX,fymallqa9.com
 DOMAIN-SUFFIX,gaapqcloud.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.fun
+DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,gitdrone.cn
@@ -1165,6 +1174,7 @@ DOMAIN-SUFFIX,ywurl.cn
 DOMAIN-SUFFIX,ywurl.com
 DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,zhutidasai.com
+DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zjump.cn
 IP-ASN,132203,no-resolve
 IP-CIDR,101.32.104.4/32,no-resolve
@@ -1210,6 +1220,7 @@ IP-CIDR,170.33.0.0/16,no-resolve
 IP-CIDR,198.11.128.0/18,no-resolve
 IP-CIDR,203.209.224.0/19,no-resolve
 IP-CIDR,205.204.96.0/19,no-resolve
+IP-CIDR,216.73.80.0/32,no-resolve
 IP-CIDR,41.222.240.0/22,no-resolve
 IP-CIDR,41.223.119.0/24,no-resolve
 IP-CIDR,42.120.0.0/16,no-resolve
