@@ -6,7 +6,10 @@ DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,toutiao1.com
+DOMAIN-SUFFIX,alibaba.com
 IP-CIDR,61.170.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
 IP-CIDR,203.119.0.0/16,no-resolve
+
 
