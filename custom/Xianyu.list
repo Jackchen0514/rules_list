@@ -8,4 +8,5 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ucweb.com
 IP-CIDR,61.170.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
+IP-CIDR,203.119.0.0/16,no-resolve
 
