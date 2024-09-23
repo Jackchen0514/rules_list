@@ -710,12 +710,14 @@ DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
 DOMAIN-SUFFIX,jrzk.net.cn
 DOMAIN-SUFFIX,kewucool.com
+DOMAIN-SUFFIX,ks-live.com
 DOMAIN-SUFFIX,kssdata-yz1.kuaipandata.com
 DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
 DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
 DOMAIN-SUFFIX,kssm.kuaipandata.com
 DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
 DOMAIN-SUFFIX,kting.info
+DOMAIN-SUFFIX,kuiniuca.com
 DOMAIN-SUFFIX,kuledushu.com
 DOMAIN-SUFFIX,laiwang.com
 DOMAIN-SUFFIX,lazyaudio.com
@@ -1161,6 +1163,7 @@ DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xuz0.cn
 DOMAIN-SUFFIX,xxsy.com
 DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,yayagushi.cn
 DOMAIN-SUFFIX,yayagushi.com
 DOMAIN-SUFFIX,yhcdn.cn
