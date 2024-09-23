@@ -61,6 +61,22 @@ file_urls = [
     {
         "category": "surge_direct",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Weibo/Weibo.list"
+    },
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/JingDong/JingDong.list"
+    },
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DingTalk/DingTalk.list"
+    },
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouYin/DouYin.list"
+    },
+    {
+        "category": "surge_direct",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XianYu/XianYu.list"
     }
     # 可以在此添加更多的文件URL和对应的分类别
 ]
