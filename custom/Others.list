@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple.com
+## wx.qlogo.cn
+IP-CIDR,222.79.113.0/24,no-resolve
+
+## douyin
+IP-CIDR,180.112.45.218/32,no-resolve
+IP-CIDR,110.219.1.91/32,no-resolve
+IP-CIDR,223.247.108.158/32,no-resolve
+
+
