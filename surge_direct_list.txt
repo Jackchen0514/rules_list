@@ -571,6 +571,7 @@ DOMAIN-SUFFIX,idcgcloudcs.com
 DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,iemiq.com
+DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,igcdn.cn
@@ -1193,6 +1194,7 @@ DOMAIN-SUFFIX,ywurl.com
 DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,zhutidasai.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zjump.cn
 IP-ASN,132203,no-resolve
 IP-CIDR,101.32.104.4/32,no-resolve
