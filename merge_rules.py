@@ -72,7 +72,7 @@ file_urls = [
     },
     {
         "category": "surge_direct",
-        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouYin/DouYin.list"
+        "url": "https://github.com/Jackchen0514/rules_list/raw/refs/heads/main/custom/DouYin.list"
     },
     {
         "category": "surge_direct",

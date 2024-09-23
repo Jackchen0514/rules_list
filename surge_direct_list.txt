@@ -329,6 +329,8 @@ DOMAIN-SUFFIX,blackdragon.com
 DOMAIN-SUFFIX,build9s.io
 DOMAIN-SUFFIX,buyjingxi.com
 DOMAIN-SUFFIX,byodonline.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,caiyu.com
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,cdndoctor.com
@@ -1248,6 +1250,7 @@ IP-CIDR,47.76.0.0/14,no-resolve
 IP-CIDR,47.80.0.0/12,no-resolve
 IP-CIDR,58.220.58.152/31,no-resolve
 IP-CIDR,58.220.59.2/32,no-resolve
+IP-CIDR,58.222.47.237/32,no-resolve
 IP-CIDR,59.82.0.0/16,no-resolve
 IP-CIDR,59.82.0.0/20,no-resolve
 IP-CIDR,59.82.240.0/21,no-resolve
