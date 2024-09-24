@@ -279,8 +279,10 @@ DOMAIN-SUFFIX,aitransfy.com
 DOMAIN-SUFFIX,aleenote.cn
 DOMAIN-SUFFIX,aleenote.com
 DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alibiji.cn
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alinotes.cn
@@ -338,6 +340,7 @@ DOMAIN-SUFFIX,buyjingxi.com
 DOMAIN-SUFFIX,byodonline.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,caiyu.com
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,cdndoctor.com
@@ -439,6 +442,7 @@ DOMAIN-SUFFIX,cncqcloud.com
 DOMAIN-SUFFIX,computeinit.com
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,coolsite.vip
+DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,dayugslb.com
@@ -448,6 +452,7 @@ DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dg-work.cn
 DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,dingding.xin
 DOMAIN-SUFFIX,dingtalk.cn
 DOMAIN-SUFFIX,dingtalk.com
@@ -818,6 +823,7 @@ DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myelasticsearch.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myqcloud.net
+DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neixin.cn
@@ -829,10 +835,12 @@ DOMAIN-SUFFIX,ovscdns.net
 DOMAIN-SUFFIX,oywtv.com
 DOMAIN-SUFFIX,paidaojia.cn
 DOMAIN-SUFFIX,paipai.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pcmgr-global.com
 DOMAIN-SUFFIX,peijian.com
 DOMAIN-SUFFIX,peiwanlu.com
 DOMAIN-SUFFIX,pengyou.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pn1waq.com
 DOMAIN-SUFFIX,prayaya.com
 DOMAIN-SUFFIX,prestodb-china.com
@@ -944,6 +952,7 @@ DOMAIN-SUFFIX,starlakelab.com
 DOMAIN-SUFFIX,store-cdn.huami.com
 DOMAIN-SUFFIX,supercellsupport.cn
 DOMAIN-SUFFIX,tamaegis.com
+DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taotao.com
@@ -1094,6 +1103,7 @@ DOMAIN-SUFFIX,vcloudvod.com
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,vg.com
 DOMAIN-SUFFIX,vodtcbk.com
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,voovlive.com
 DOMAIN-SUFFIX,vweixinthumb.tc.qq.com
 DOMAIN-SUFFIX,vxo7tu.com
