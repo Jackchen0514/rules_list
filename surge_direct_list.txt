@@ -322,6 +322,7 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,armaf.org
 DOMAIN-SUFFIX,ating.info
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,baitiao.cn
 DOMAIN-SUFFIX,baitiao.com
@@ -429,6 +430,8 @@ DOMAIN-SUFFIX,cloudyuncheng.com
 DOMAIN-SUFFIX,cloudyuxi.com
 DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmfu.com
 DOMAIN-SUFFIX,cncqcloud.com
 DOMAIN-SUFFIX,computeinit.com
@@ -568,6 +571,7 @@ DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,huyagame.cn
 DOMAIN-SUFFIX,huyaos.com
 DOMAIN-SUFFIX,ibaitiao.com
+DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,idcgcloudcs.com
 DOMAIN-SUFFIX,idouyinvod.com
