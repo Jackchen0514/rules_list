@@ -319,6 +319,7 @@ DOMAIN-SUFFIX,api-mifit.huami.com
 DOMAIN-SUFFIX,apigwtencent.com
 DOMAIN-SUFFIX,app-analytics-cn.huami.com
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,armaf.org
 DOMAIN-SUFFIX,ating.info
 DOMAIN-SUFFIX,autonavi.com
@@ -430,6 +431,7 @@ DOMAIN-SUFFIX,cloudyuncheng.com
 DOMAIN-SUFFIX,cloudyuxi.com
 DOMAIN-SUFFIX,cloudzhongshan.com
 DOMAIN-SUFFIX,cloudzhuhai.com
+DOMAIN-SUFFIX,cmbchina.cn
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmfu.com
@@ -442,6 +444,7 @@ DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,dayugslb.com
 DOMAIN-SUFFIX,dcloudlive.com
 DOMAIN-SUFFIX,dcloudstc.com
+DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dg-work.cn
 DOMAIN-SUFFIX,dianping.com
@@ -910,6 +913,7 @@ DOMAIN-SUFFIX,rootjl.com
 DOMAIN-SUFFIX,rtx.com.cn
 DOMAIN-SUFFIX,rtxapp.com
 DOMAIN-SUFFIX,rtxonline.com
+DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,safejmp.com
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,serverlesscloud.cn
@@ -919,6 +923,8 @@ DOMAIN-SUFFIX,shlsyb.com
 DOMAIN-SUFFIX,shuame.com
 DOMAIN-SUFFIX,shunwei.cn
 DOMAIN-SUFFIX,shurl.cn
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,singapore01.kuaipandata.com
 DOMAIN-SUFFIX,sinopayment.com.cn
 DOMAIN-SUFFIX,sixjoy.com
