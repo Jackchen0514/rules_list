@@ -600,6 +600,7 @@ DOMAIN-SUFFIX,monitoring.qcpp1.net
 DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,moodstocks.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,near.by
 DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,neverware.com

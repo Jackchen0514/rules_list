@@ -26,7 +26,11 @@ file_urls = [
     {
         "category": "surge_onlyfan",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list"
-    }, 
+    },
+    {
+        "category": "surge_onlyfan",
+        "url": "https://de.xinsichen.com/index.php/s/AkNbLaXqzyeQpws/download/hk.txt"
+    },
 
     ## direct
 

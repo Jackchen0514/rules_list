@@ -835,7 +835,9 @@ DOMAIN-SUFFIX,ovscdns.net
 DOMAIN-SUFFIX,oywtv.com
 DOMAIN-SUFFIX,paidaojia.cn
 DOMAIN-SUFFIX,paipai.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,pcmgr-global.com
 DOMAIN-SUFFIX,peijian.com
 DOMAIN-SUFFIX,peiwanlu.com
