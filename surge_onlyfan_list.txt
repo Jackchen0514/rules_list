@@ -4,6 +4,7 @@ DOMAIN,music.youtube.com
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
