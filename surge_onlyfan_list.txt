@@ -221,7 +221,6 @@ DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,download.qcpp1.net
 DOMAIN-SUFFIX,download.qpdp1.net
 DOMAIN-SUFFIX,episodic.com
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,feedburner.com
